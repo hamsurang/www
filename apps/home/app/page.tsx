@@ -1,5 +1,5 @@
-import { People } from '@/_shared'
-import { ActivityLogGraph, Button } from '@hamsurang/ui'
+import { ActivityLogGraph, People } from '@/_shared'
+import { Button } from '@hamsurang/ui'
 
 const sampleData = [
   { date: '2024-01-01', contents: '첫 번째 활동 내역' },
